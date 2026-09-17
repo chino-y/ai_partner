@@ -1,0 +1,17 @@
+# IDE 配置
+.idea/
+
+# 会话数据（个人聊天记录）
+sessions/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# 环境变量文件（勿提交密钥）
+.env
+.env.*
